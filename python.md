@@ -1,3 +1,3 @@
 # Demo
 
-love is life
+love is life!
